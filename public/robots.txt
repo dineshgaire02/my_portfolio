@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dineshgaire.com.np/sitemap.xml
