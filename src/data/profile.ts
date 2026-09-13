@@ -29,7 +29,7 @@ export const profileData: ProfileInfo = {
   phone: '9769820585',
   avatarInitials: 'DG',
   // Optional: Place your image in public/images/dinesh-gaire.jpg and set it here
-  avatarPhotoUrl: '',
+  avatarPhotoUrl: './photo.jpg',
   cv: {
     isAvailable: false,
     fileName: 'Er_Dinesh_Gaire_CV.pdf',
